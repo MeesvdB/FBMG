@@ -1,0 +1,50 @@
+body{
+background: #FFF;
+}
+h1{
+color: #black;
+font-family: 'impact';
+font-size: 90px;
+line-height: 76px;
+
+text-align: center;
+top: ;
+}
+
+th{
+ font-family:'impact';
+ font-size: 35px;
+ color: black ;
+ margin: auto;
+
+}
+.Koekjes-div{
+ background-color:#ff99ff;
+border-radius: 25px;
+  color: black;
+  margin: auto;
+     width: 60%;
+height: 85px;
+
+text-align: center;
+}
+
+.Balk-div{
+  background-color:#c0c0c0 ;
+
+  color: black;
+  margin: auto;
+  width: 70%;
+  height: 40px;
+}
+
+.tekstdifju{
+    background-color:#ff99ff ;
+border-radius: 25px;
+
+    color: black;
+    margin: auto;
+    height: 170px;
+    width: 30%;
+    text-align: left;
+}
